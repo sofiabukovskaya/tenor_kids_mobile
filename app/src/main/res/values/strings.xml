@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TenorKids</string>
+    <string name="welcome">Welcome!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="about_us">About us</string>
+    <string name="what_is_tenor_kids">What is Tenor kids?</string>
+    <string name="text_about">Children are the most valuable thing for every parent. In the world of technology, it is impossible to limit this or that information from a child. Due to their age, children cannot filter all information and it can negatively affect the development of the child. If you care about the intellectual development of your child / children, then be sure to use our product. Tenor Kids is a unique product that, with the help of daily screening tests, helps to develop the intellectual abilities of the child, as well as track the result. \n Thank you for choosing us!</string>
+    <string name="contact_us">Contact us</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sonthaveaccount">Don’t have account yet?<u> Go to Sign Up page!</u></string>
+</resources>

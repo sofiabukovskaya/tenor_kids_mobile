@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TenorKids</string>
+    <string name="welcome">Ласкаво просимо!</string>
+    <string name="sign_in">Увійти</string>
+    <string name="sign_up">Зареєструватися</string>
+    <string name="about_us">Про нас</string>
+    <string name="what_is_tenor_kids">Що таке Tenor kids?</string>
+    <string name="text_about">Діти – це найцінніше для кожного батька. У світі технологій неможливо обмежити ту чи іншу інформацію від дитини. Через вік діти не можуть відфільтрувати всю інформацію, що може негативно вплинути на розвиток дитини. Якщо ви дбаєте про інтелектуальний розвиток вашої дитини/дітей, то обов’язково скористайтеся нашим продуктом. Tenor Kids – унікальний продукт, який за допомогою щоденних скринінгових тестів допомагає розвивати інтелектуальні здібності дитини, а також відстежувати результат. \n Дякуємо, що обрали нас!</string>
+    <string name="contact_us">Зв\'яжіться з нами</string>
+    <string name="email">Електрона пошта</string>
+    <string name="password">Пароль</string>
+    <string name="sonthaveaccount">Не маєте акаунт?<u> Перейти до сторінки реєстрації!</u></string>
+</resources>
